@@ -23,7 +23,7 @@ My GitHub URL link: [GitHub Pages](https://github.com/i-sopha)
 - [ ] Be kind to yourself
 - [ ] Be open to feedback
 - [ ] Ask for help
-> :sparkles: Bonus: **REWARD YOURSELF!**
+> ✨ Bonus: **REWARD YOURSELF!**
 
 ~~**DON'T**~~
 - [ ] Not speak up
