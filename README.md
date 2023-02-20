@@ -25,6 +25,7 @@ My GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
 - [ ] Be kind to yourself
 - [ ] Be open to feedback
 - [ ] Ask for help
+
 > ✨ Bonus: **REWARD YOURSELF!**
 
 ~~**DON'T**~~
