@@ -3,7 +3,7 @@ My reading journal for Code Fellows
 
 # Introduction
 
-My name is Isabel Sopha. I like legos and snowboarding.
+My name is Isabel Sopha. I'm from California. I like legos and snowboarding.
 
 I will be diving into the growth mindset and what it means to me below.
 
