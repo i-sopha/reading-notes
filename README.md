@@ -1,11 +1,13 @@
-# reading-notes
+# reading-notes 📚
 My reading journal for Code Fellows
 
 # Introduction
 
-My name is Isabel Sopha and I will be diving into the growth mindset and what it means to me below.
+My name is Isabel Sopha. I like legos and snowboarding.
 
-My GitHub URL link: [GitHub Pages](https://github.com/i-sopha)
+I will be diving into the growth mindset and what it means to me below.
+
+My GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
 
 
 # The Growth Mindset 🧠
