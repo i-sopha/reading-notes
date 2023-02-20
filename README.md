@@ -8,7 +8,7 @@ My name is Isabel Sopha and I will be diving into the growth mindset and what it
 My GitHub URL link: [GitHub Pages](https://github.com/i-sopha)
 
 
-# The Growth Mindset :brain:
+# The Growth Mindset 🧠
 
 1. *[Definition](#definition)*
 2. *[Reminders](#reminders)*
