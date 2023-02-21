@@ -6,7 +6,7 @@
 
 ## What are the 3 main parts of an HTML element?
 
-> The opening tag, content, and closing tag. wWhich equals the element.
+> The opening tag, content, and closing tag. Which equals the element.
 
 ## What is it called when you give an element extra information?
 

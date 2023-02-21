@@ -1,4 +1,4 @@
-# Learning Markdown
+# Learning Markdown 📝
 
 ## What is Markdown?
 
