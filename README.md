@@ -6,7 +6,7 @@ My reading journal for Code Fellows
 
 My name is Isabel Sopha. I'm from California. I like legos and snowboarding.
 
-[Growth Mindset](./code-102/projects/reading-notes/growth-mindset.md)
+[Growth Mindset](./code-102/growth-mindset.md)
 
 My GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
 
