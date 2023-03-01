@@ -1,18 +1,18 @@
 # reading-notes 📚
 
-My reading journal for Code Fellows
+My reading journal for Code Fellows.
 
-## Introduction
+# Introduction
 
-My name is Isabel Sopha. I'm from California. I like legos and snowboarding.
+My name is Isabel Sopha. I live in Southern California. I like legos and snowboarding.
 
-[Growth Mindset](./code-102/growth-mindset.md)
+[Growth Mindset🧠](./code-102/growth-mindset.md)
 
-My GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
+GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
 
-### Table of Contents
+# Table of Contents
 
-#### Class 102
+## Code 1️⃣0️⃣2️⃣ - Intro to Software Development
 
 - Class 1 - [Learning Markdown](./code-102/01-learning-markdown.md)
 - Class 2 - [The Coder's Computer](./code-102/02-the-coders-computer.md)
@@ -23,20 +23,30 @@ My GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
 - Class 7 - [Programming with JavaScript](./code-102/07-programming-wih-javascript.md)
 - Class 8 - [Operators and Loops](./code-102/08-operators-and-loops.md)
 
-#### Class 201
+## Code 2️⃣0️⃣1️⃣ - Foundations of Software Development
 
-- Class 1 - [TBD](./code-201/01-.md)
-- Class 2 - [TBD](./code-201/02-.md)
-- Class 3 - [TBD](./code-201/03-.md)
-- Class 4 - [TBD](./code-201/04-.md)
-- Class 5 - [TBD](./code-201/05-.md)
-- Class 6 - [TBD](./code-201/06-.md)
-- Class 7 - [TBD](./code-201/07-.md)
-- Class 8 - [TBD](./code-201/08-.md)
-- Class 9 - [TBD](./code-201/09-.md)
-- Class 10 - [TBD](./code-201/10-.md)
-- Class 11 - [TBD](./code-201/11-.md)
-- Class 12 - [TBD](./code-201/12-.md)
-- Class 13 - [TBD](./code-201/13-.md)
-- Class 14 - [TBD](./code-201/14-.md)
-- Class 15 - [TBD](./code-201/15-.md)
+- Class 1 - [Setup Developer Toolbelt](./code-201/01-.md)
+- Class 2 - [Intro to Web Development](./code-201/02-.md)
+- Class 3 - [Lists, The Box Model, and Loops](./code-201/03-.md)
+- Class 4 - [Links, Layouts, and Functions](./code-201/04-.md)
+- Class 5 - [Images, Color, Text, and More Functions](./code-201/05-.md)
+- Class 6 - [Domain Modeling, Intro to DOM, and Object Literal Notation](./code-201/06-.md)
+- Class 7 - [HTML Tables and JS Constructor Functions](./code-201/07-.md)
+- Class 8 - [Layout with CSS](./code-201/08-.md)
+- Class 9 - [Forms and Events](./code-201/09-.md)
+- Class 10 - [Debugging and Error Handling](./code-201/10-.md)
+- Class 11 - [Audio and Video in HTML; Domain Modeling Revisted](./code-201/11-.md)
+- Class 12 - [Canvas and ChartJS](./code-201/12-.md)
+- Class 13 - [Into to Persistence with Local Storage](./code-201/13-.md)
+- Class 14 - [Documentation, Project Selection, & Team Workflow](./code-201/14-.md)
+- Class 15 - [N/A](./code-201/15-.md)
+
+## Code 3️⃣0️⃣1️⃣ - Intermediate Software Development
+
+- Class 1 - [N/A](./code-301/01-.md)
+- Class 2 - [N/A](./code-301/02-.md)
+
+## Code 4️⃣0️⃣1️⃣ - Advanced Software Development
+
+- Class 1 - [N/A](./code-401/01-.md)
+- Class 2 - [N/A](./code-401/02-.md)
