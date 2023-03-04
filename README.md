@@ -25,21 +25,21 @@ GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
 
 ## Code 2️⃣0️⃣1️⃣ - Foundations of Software Development
 
-- Class 1 - [Setup Developer Toolbelt](./code-201/01-.md)
-- Class 2 - [Intro to Web Development](./code-201/02-.md)
-- Class 3 - [Lists, The Box Model, and Loops](./code-201/03-.md)
-- Class 4 - [Links, Layouts, and Functions](./code-201/04-.md)
-- Class 5 - [Images, Color, Text, and More Functions](./code-201/05-.md)
-- Class 6 - [Domain Modeling, Intro to DOM, and Object Literal Notation](./code-201/06-.md)
-- Class 7 - [HTML Tables and JS Constructor Functions](./code-201/07-.md)
-- Class 8 - [Layout with CSS](./code-201/08-.md)
-- Class 9 - [Forms and Events](./code-201/09-.md)
-- Class 10 - [Debugging and Error Handling](./code-201/10-.md)
-- Class 11 - [Audio and Video in HTML; Domain Modeling Revisted](./code-201/11-.md)
-- Class 12 - [Canvas and ChartJS](./code-201/12-.md)
-- Class 13 - [Into to Persistence with Local Storage](./code-201/13-.md)
-- Class 14 - [Documentation, Project Selection, & Team Workflow](./code-201/14-.md)
-- Class 15 - [N/A](./code-201/15-.md)
+- Class 1 - [Setup Developer Toolbelt](./code-201/class-01.md)
+- Class 2 - [Intro to Web Development](./code-201/class-02.md)
+- Class 3 - [Lists, The Box Model, and Loops](./code-201/class-03.md)
+- Class 4 - [Links, Layouts, and Functions](./code-201/class-04.md)
+- Class 5 - [Images, Color, Text, and More Functions](./code-201/class-05.md)
+- Class 6 - [Domain Modeling, Intro to DOM, and Object Literal Notation](./code-201/class-06.md)
+- Class 7 - [HTML Tables and JS Constructor Functions](./code-201/class-07.md)
+- Class 8 - [Layout with CSS](./code-201/class-08.md)
+- Class 9 - [Forms and Events](./code-201/class-09.md)
+- Class 10 - [Debugging and Error Handling](./code-201/class-10.md)
+- Class 11 - [Audio and Video in HTML; Domain Modeling Revisted](./code-201/class-11.md)
+- Class 12 - [Canvas and ChartJS](./code-201/class-12.md)
+- Class 13 - [Into to Persistence with Local Storage](./code-201/class-13.md)
+- Class 14 - [Documentation, Project Selection, & Team Workflow](./code-201/class-14.md)
+- Class 15 - [N/A](./code-201/class-15.md)
 
 ## Code 3️⃣0️⃣1️⃣ - Intermediate Software Development
 
@@ -50,3 +50,16 @@ GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
 
 - Class 1 - [N/A](./code-401/01-.md)
 - Class 2 - [N/A](./code-401/02-.md)
+
+----
+### 💡Things I want to know more about:
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
