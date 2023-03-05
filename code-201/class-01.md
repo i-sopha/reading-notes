@@ -18,13 +18,13 @@ What is a Variable and why are they important in JavaScript?
 - What is an HTML attribute?
 Describe the Anatomy of an HTMl element.
 
-- What is the Difference between <article> and <section> element tags?
+- What is the Difference between `<article>` and `<section>` element tags?
 
 - What Elements does a “typical” website include?
 
 - How does metadata influence Search Engine Optimization?
 
-- How is the <meta> HTML tag used when specifying metadata?
+- How is the `<meta>` HTML tag used when specifying metadata?
 
 ## [3] **Miscellaneous**
 
@@ -48,7 +48,7 @@ Describe the Anatomy of an HTMl element.
 
 -----
 
-Reference: 
+Reference:
 
 [1] : [Getting Started](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/)
 

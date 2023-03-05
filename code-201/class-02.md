@@ -28,12 +28,12 @@
 
     1. Which components are considered properties?
 
-`
-    h2 {
+``
+h2 {
      color: black;
      padding: 5px;
    }
-`
+``
 
 ### [3] <u>JavaScript</u> 💥
 
@@ -50,7 +50,7 @@
 - What is the use of an else if?
 List 3 different types of comparison operators.
 
-- What is the difference between the logical operator && and ||?
+- What is the difference between the logical operator `&&` and `||`?
 
 ------
 Reference:
