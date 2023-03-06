@@ -20,18 +20,16 @@
 
 > `<p>`My birthday is on the 25`<sup>`th`</sup>` of May 2001.`</p>``<p>` 
 
->Caffeine's chemical formula is
+> Caffeine's chemical formula is
   C`<sub>`8`</sub>`H`<sub>`10`</sub>`N`<sub>`4`</sub>`O`<sub>`2`</sub>`.`</p>`
 
 >`<p>`If x`<sup>`2`</sup>` is 9, x must equal 3 or -3.`</p>`
 
 The output:
 
-> <p>My birthday is on the 25<sup>th</sup> of May 2001.</p>
-<p>
+> <p>My birthday is on the 25<sup>th</sup> of May 2001.</p><p>
 
-> Caffeine's chemical formula is C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>.
-</p>
+> Caffeine's chemical formula is C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>.</p>
 
 > <p>If x<sup>2</sup> is 9, x must equal 3 or -3.</p>.
 
@@ -117,4 +115,5 @@ Reference:
 [3] : [Making Decisions In Your Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ❗❗❗ Bookmark and Review ❗❗❗
-- https://chris.beams.io/posts/git-commit/
+
+- [Link 1](https://chris.beams.io/posts/git-commit/)
