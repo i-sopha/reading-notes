@@ -38,7 +38,7 @@ GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
 - Class 11 - [Audio and Video in HTML; Domain Modeling Revisted](./code-201/class-11.md)
 - Class 12 - [Canvas and ChartJS](./code-201/class-12.md)
 - Class 13 - [Into to Persistence with Local Storage](./code-201/class-13.md)
-- Class 14a - [Documentation, Project Selection, & Team Workflow](./code-201/class-14.md)
+- Class 14a - [Documentation, Project Selection, & Team Workflow](./code-201/class-14a.md)
 - Class 14b - [Psychological Safety](./code-201/class-14b.md)
 
 ## Code 3️⃣0️⃣1️⃣ - Intermediate Software Development
