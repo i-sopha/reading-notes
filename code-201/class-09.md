@@ -17,9 +17,13 @@
 - List 5 form elements and explain their importance.
 
     > `button` allows the user to send, or "submit", their data once they have filled out the form
+
     > `textarea` a multiline text field
-    > `input` The <input> HTML element is used to create interactive controls for web-based forms in order to accept data from the user; a wide variety of types of input data and control widgets are available, depending on the device and user agent. The <input> element is one of the most powerful and complex in all of HTML due to the sheer number of combinations of input types and attributes.
+
+    > `input` The `<input>` HTML element is used to create interactive controls for web-based forms in order to accept data from the user; a wide variety of types of input data and control widgets are available, depending on the device and user agent. The `<input>` element is one of the most powerful and complex in all of HTML due to the sheer number of combinations of input types and attributes.
+
     > `label` represents a caption for an item in a user interface.
+
     > `form` defines a form
 
 ### [*Learn JS*](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
