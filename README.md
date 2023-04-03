@@ -43,8 +43,21 @@ GitHub URL link: [Isabel's GitHub](https://github.com/i-sopha)
 
 ## Code 3️⃣0️⃣1️⃣ - Intermediate Software Development
 
-- Class 1 - [N/A](./code-301/01-.md)
-- Class 2 - [N/A](./code-301/02-.md)
+- Class 1 - [Introduction to React and Components](./code-301/class-01.md)
+- Class 2 - [State and Props](./code-301/class-02.md)
+- Class 3 - [Passing Functions as Props](./code-301/class-03.md)
+- Class 4 - [React and Forms](./code-301/class-04.md)
+- Class 5 - [Putting it all together](./code-301/class-05.md)
+- Class 6 - [REST](./code-301/class-06.md)
+- Class 7 - [NODE.JS](./code-301/class-07.md)
+- Class 8 - [APIs](./code-301/class-08.md)
+- Class 9 - [Functional Programming](./code-301/class-09.md)
+- Class 10 - [In memory storage](./code-301/class-10.md)
+- Class 11 - [MongoDB and Mongoose](./code-301/class-11.md)
+- Class 12 - [CRUD](./code-301/class-12.md)
+- Class 13 - [More CRUD](./code-301/class-13.md)
+- Class 14 - [Diversity & Inclusion in the Tech Industry](./code-301/class-14.md)
+- Class 15 - [Authentication](./code-301/class-15.md)
 
 ## Code 4️⃣0️⃣1️⃣ - Advanced Software Development
 
