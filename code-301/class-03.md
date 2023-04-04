@@ -2,6 +2,8 @@
 
 ## Passing Functions as Prop
 
+![](./imgs/functionsprops.png)
+
 ### [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
 1. What does .map() return?
