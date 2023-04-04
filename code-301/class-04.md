@@ -36,7 +36,7 @@ if(x===y){
 
   - `console.log(x === y ? true : false);`
 
----
+--- 
 
 Bookmark and Review
 
