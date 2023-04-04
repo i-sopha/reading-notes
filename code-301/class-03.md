@@ -2,7 +2,7 @@
 
 ## Passing Functions as Prop
 
-![](./imgs/functionsprops.png)
+![](./imgs/functionsprops.png) 
 
 ### [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
